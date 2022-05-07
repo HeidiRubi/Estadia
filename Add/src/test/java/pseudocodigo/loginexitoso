@@ -1,0 +1,3 @@
+probariniciarsesion()
+navegarPAgina("https://www.facebook.com")
+verificarPagInicioSesion() aqui seria por el logo o el texto
